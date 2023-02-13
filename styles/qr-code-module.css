@@ -1,0 +1,30 @@
+.container{
+  padding: 16px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  border-radius: 16px;
+  width: 300px;
+  align-items: center;
+  margin: auto;
+  margin-top: 150px;
+}
+
+.qr-code{
+  width: 100%;
+  border-radius: 16px;
+}
+
+.text{
+width: 85%;
+text-align: center;
+}
+
+.heading{
+  font-size: 22px;
+  color: hsl(218, 44%, 22%);
+}
+
+.description{
+  color: hsl(220, 15%, 55%);
+}
